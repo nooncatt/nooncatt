@@ -2,10 +2,8 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR6YjAxaHJqaWZxdm45ZHAzbTR6Z2FtMTNmbnNtM3N0ZHh4bjNrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8jUfaclrsG9x8At9Z/giphy.gif" width="100"/>
 </div>
-
 ---
-
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
