@@ -1,24 +1,48 @@
-## Hi there, I'm Nastya ✨
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR6YjAxaHJqaWZxdm45ZHAzbTR6Z2FtMTNmbnNtM3N0ZHh4bjNrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8jUfaclrsG9x8At9Z/giphy.gif" width="100"/>
-</div>
+# 👋 Привет, я Настя Карпенко
+*Python Backend Developer (Junior)*
 
----
+## 🧑‍💻 Обо мне
+Студентка 4 курса по направлению "Математическое моделирование и Анализ данных в Экономике". Активно осваиваю backend-разработку на Python, фокусируюсь на создании надежных и эффективных веб-сервисов. Ищу стажировку или начальную позицию, где смогу применять свои навыки в Flask, SQL и алгоритмах, расти под руководством опытной команды. Верю, что мое математическое образование помогает мне мыслить структурно и решать сложные задачи.
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-<!--
-**nooncatt/nooncatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Технологии и Инструменты
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) (Основы + SQLAlchemy)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) (Основы)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) (Для диплома/анализа)
+
+
+## 💻 Мои Проекты
+
+### 🧪 [Соц сеть Flask] (Например: "Flask API для учета задач")
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](ссылка_на_репозиторий) [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev+Containers&message=Open&color=blue&logo=visualstudiocode)](ссылка_на_devcontainer) *// Опционально, если настроила*
+*   **Описание:** Небольшое веб-приложение на Flask для [кратко опиши задачу, например: учета личных задач с авторизацией и REST API].
+*   **Ключевые технологии:** Python, Flask, SQLAlchemy (SQLite/PostgreSQL), [если есть: Jinja2, WTForms], Pytest, Git.
+*   **Что реализовано/Чему научилась:**
+    *   Реализована REST API для CRUD операций с задачами.
+    *   Настроена аутентификация пользователей с помощью JWT или сессий.
+    *   Применена ORM (SQLAlchemy) для работы с базой данных.
+    *   Покрытие кода юнит-тестами с использованием Pytest (>XX%).
+    *   Контейнеризация приложения с помощью Docker.
+    *   Использование Git для контроля версий.
+    *   
+
+## 📚 Образование
+*   **Бакалавриат (Ожидается 2025):** СПБГЭУ, Направление: "Математическое моделирование и Анализ данных в Экономике"
+    *   *Ключевые курсы:* Математический анализ, Линейная алгебра, Теория вероятностей, Эконометрика, Методы оптимизации, Программирование (Python), Анализ данных.
+*   **Курсы:**
+    *   **Backend-разработка на Python** - [Votyakov.com](https://votyakov.com/python-start) (2025)
+        *   *Освоено:* Flask, REST API, SQLAlchemy, Git, Pytest, Docker basics.
+    *   **Алгоритмы и структуры данных** - [Votyakov.com](https://votyakov.com/algorithm) (2025)
+        *   *Освоено:* 
+
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nooncatt)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:anastasha.me@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](ссылка_на_LinkedIn) *// Очень рекомендую создать!*
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](ссылка_на_твой_GitHub_профиль)
+
