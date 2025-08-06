@@ -7,18 +7,18 @@
 ## 🛠️ Технологии и Инструменты
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) (Основы + SQLAlchemy)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) (Основы)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) (Для диплома/анализа)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
 
 
 ## 💻 Мои Проекты
 
 ### 🧪 [Соц сеть Flask] (Например: "Flask API для учета задач")
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](ссылка_на_репозиторий) [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev+Containers&message=Open&color=blue&logo=visualstudiocode)](ссылка_на_devcontainer) *// Опционально, если настроила*
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](ссылка_на_репозиторий) 
 *   **Описание:** Небольшое веб-приложение на Flask для [кратко опиши задачу, например: учета личных задач с авторизацией и REST API].
 *   **Ключевые технологии:** Python, Flask, SQLAlchemy (SQLite/PostgreSQL), [если есть: Jinja2, WTForms], Pytest, Git.
 *   **Что реализовано/Чему научилась:**
@@ -31,7 +31,7 @@
     *   
 
 ## 📚 Образование
-*   **Бакалавриат (Ожидается 2025):** СПБГЭУ, Направление: "Математическое моделирование и Анализ данных в Экономике"
+*   **Бакалавриат (Окончу в 2026):** СПБГЭУ, Направление: "Математическое моделирование и Анализ данных в Экономике"
     *   *Ключевые курсы:* Математический анализ, Линейная алгебра, Теория вероятностей, Эконометрика, Методы оптимизации, Программирование (Python), Анализ данных.
 *   **Курсы:**
     *   **Backend-разработка на Python** - [Votyakov.com](https://votyakov.com/python-start) (2025)
@@ -43,6 +43,4 @@
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nooncatt)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:anastasha.me@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](ссылка_на_LinkedIn) *// Очень рекомендую создать!*
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](ссылка_на_твой_GitHub_профиль)
 
