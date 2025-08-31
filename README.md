@@ -18,7 +18,7 @@
 ## 💻 Мои Проекты
 
 ### 🧪 [Соц сеть Flask] (Например: "Flask API для учета задач")
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](ссылка_на_репозиторий) 
+[![GitHub](https://github.com/nooncatt/Social-App-Flask?logo=github&logoColor=white)](ссылка_на_репозиторий) 
 *   **Описание:** Небольшое веб-приложение на Flask для [кратко опиши задачу, например: учета личных задач с авторизацией и REST API].
 *   **Ключевые технологии:** Python, Flask, SQLAlchemy (SQLite/PostgreSQL), [если есть: Jinja2, WTForms], Pytest, Git.
 *   **Что реализовано/Чему научилась:**
