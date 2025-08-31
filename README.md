@@ -17,7 +17,7 @@
 
 ## 💻 Мои Проекты
 
-### 🧪 [Соц сеть Flask] (Например: "Flask API для учета задач")
+### 🧪 Соц сеть Flask
 [![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FSocial--App--Flask-181717?logo=github)](https://github.com/nooncatt/Social-App-Flask)
 *   **Описание:** Небольшое веб-приложение на Flask.
 *   **Ключевые технологии:** Python, Flask, Git.
