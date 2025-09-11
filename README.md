@@ -27,7 +27,7 @@
 [![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FSocial--App--Flask-181717?logo=github)](https://github.com/nooncatt/Social-App-Flask)
 
 - **Описание:** мини-API соцсети: пользователи, посты, реакции, лидерборд.
-- **Ключевые технологии:** Python, Flask, Jinja2, email-validator, matplotlib, Pytest, Requests/Postman.
+- **Ключевые технологии:** Python, Flask, email-validator, matplotlib, Pytest, Requests/Postman.
 - **Что сделано:**
   - REST-эндпоинты для пользователей и постов; реакции «один пользователь — одна реакция» (смена реакции поддерживается).
   - Хранение данных **в памяти** процесса; `user_id`/`post_id` — индексы.  
