@@ -43,6 +43,15 @@
     *Освоено:* Python, Flask, REST API, тестирование (Pytest), Git...
   - **Алгоритмы и структуры данных** — [Votyakov.com](https://votyakov.com/algorithm) (2025)
 
+## 📜 Сертификаты
+
+### 🧩 Yandex — «Тренировки по алгоритмам» (2025)
+
+[📄 Скачать сертификат (PDF)](certificates/yandex_algorithms_certificate.pdf)
+
+![Сертификат Yandex](certificates/yandex_algorithms_certificate.png)
+
+
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nooncatt)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:anastasha.me@gmail.com)
