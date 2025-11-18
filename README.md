@@ -23,7 +23,7 @@
 
 ## 💻 Мои Проекты
 
-### 🧪 Соц-сеть на Flask
+### Соц-сеть на Flask
 [![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FSocial--App--Flask-181717?logo=github)](https://github.com/nooncatt/Social-App-Flask)
 
 - **Описание:** мини-API соцсети: пользователи, посты, реакции, лидерборд.
@@ -45,11 +45,9 @@
 
 ## 📜 Сертификаты
 
-### 🧩 Yandex — «Тренировки по алгоритмам» (2025)
+### Yandex — «Тренировки по алгоритмам» (2025)
 
-[📄 Скачать сертификат (PDF)](certificates/yandex_algorithms_certificate.pdf)
-
-![Сертификат Yandex](certificates/yandex_algorithms_certificate.png)
+![Сертификат Yandex](certificates/4196b762-c614-4fa3-a222-d5d9ecede070.pdf)
 
 
 ## 📫 Контакты
