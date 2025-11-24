@@ -1,10 +1,10 @@
 # 👋 Привет, я Настя Карпенко
 *Junior Backend Developer*
 
-## 🧑‍💻 Обо мне
+## Обо мне
 Студентка 4 курса **Факультета экономики, финансов и информационных технологий** (СПБГЭУ). Активно осваиваю backend-разработку, фокусируюсь на создании надежных и эффективных веб-сервисов. Ищу стажировку или начальную позицию, где смогу применять свои навыки, расти под руководством опытной команды. 
 
-## 🛠️ Технологии и Инструменты
+## Технологии и Инструменты
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?logo=jinja&logoColor=white)
@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 
-## 💻 Мои Проекты
+## Мои Проекты
 
 ### Соц-сеть на Flask
 [![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FSocial--App--Flask-181717?logo=github)](https://github.com/nooncatt/Social-App-Flask)
@@ -35,7 +35,7 @@
   - Лидерборд, сортирующий пользователей по сумме полученных реакций: **JSON**-список или **график** (PNG в `/static`), HTML возвращает `<img>` со ссылкой на файл.
   - **Тесты:** Pytest + `Flask.test_client()` — покрыты пользователи, посты, реакции, лидерборд.
 
-## 📚 Образование
+## Образование
 - **Бакалавриат (окончание в 2026):** Санкт-Петербургский государственный экономический университет (СПБГЭУ) — **Факультет экономики, финансов и информационных технологий**, **направление:** «Математическое моделирование и анализ данных в экономике».
 
 - **Курсы:**
@@ -43,7 +43,7 @@
     *Освоено:* Python, Flask, REST API, тестирование (Pytest), Git...
   - **Алгоритмы и структуры данных** — [Votyakov.com](https://votyakov.com/algorithm) (2025)
 
-## 📜 Сертификаты
+## Сертификаты
 
 ### Yandex — «Тренировки по алгоритмам» (2025)
 
