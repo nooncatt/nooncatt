@@ -36,13 +36,13 @@
   - **Тесты:** Pytest + `Flask.test_client()` — покрыты пользователи, посты, реакции, лидерборд.
   - 
 ### Анализ рынка недвижимости:
-[![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FSocial--App--Flask-181717?logo=github)](https://github.com/nooncatt/em-auth-system)
+[![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2Fem--auth--system-181717?logo=github)](https://github.com/nooncatt/em-auth-system)
 - исследование факторов, влияющих на стоимость жилья;
 - предобработка данных,
 - статистический анализ и визуализация с использованием Pandas и Matplotlib.
   
 ### Система аутентификации и авторизации на Django (Django, DRF, PostgreSQL, JWT, bcrypt)
-[![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FSocial--App--Flask-181717?logo=github)](https://github.com/nooncatt/Real-estate-market-analysis)
+[![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FReal--estate--analysis-181717?logo=github)](https://github.com/nooncatt/Real-estate-market-analysis)
 - Спроектировала кастомную модель пользователя и JWT-аутентификацию без встроенного Django auth
 - Реализовала RBAC: роли, бизнес-элементы и правила доступа (can_read / can_read_all / can_create / ...) с проверкой через middleware
 - Сделала mock-сервис задач (tasks): админ видит и изменяет все задачи, обычный пользователь — только свои
