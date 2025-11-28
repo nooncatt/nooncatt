@@ -21,34 +21,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 
-## Мои Проекты
-
-### Соц-сеть на Flask
-[![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FSocial--App--Flask-181717?logo=github)](https://github.com/nooncatt/Social-App-Flask)
-
-- **Описание:** мини-API соцсети: пользователи, посты, реакции, лидерборд.
-- **Ключевые технологии:** Python, Flask, email-validator, matplotlib, Pytest, Requests/Postman.
-- **Что сделано:**
-  - REST-эндпоинты для пользователей и постов; реакции: «один пользователь — одна реакция» (смена реакции поддерживается).
-  - Хранение данных **в памяти** процесса;
-    Реализован «мягкий» delete для пользователей и постов (меняется статус, не отображаются, без жёсткого удаления из хранилища).
-  - Лидерборд, сортирующий пользователей по сумме полученных реакций: **JSON**-список или **график** (PNG в `/static`), HTML возвращает `<img>` со ссылкой на файл.
-  - **Тесты:** Pytest + `Flask.test_client()` — покрыты пользователи, посты, реакции, лидерборд.
-    
-### Анализ рынка недвижимости:
-[![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2FReal--estate--analysis-181717?logo=github)](https://github.com/nooncatt/Real-estate-market-analysis) 
-- исследование факторов, влияющих на стоимость жилья;
-- предобработка данных,
-- статистический анализ и визуализация с использованием Pandas и Matplotlib.
-  
-### Система аутентификации и авторизации на Django (Django, DRF, PostgreSQL, JWT, bcrypt)
-[![GitHub – nooncatt/Social-App-Flask](https://img.shields.io/badge/GitHub-nooncatt%2Fem--auth--system-181717?logo=github)](https://github.com/nooncatt/em-auth-system)
-- Спроектировала кастомную модель пользователя и JWT-аутентификацию без встроенного Django auth
-- Реализовала RBAC: роли, бизнес-элементы и правила доступа (can_read / can_read_all / can_create / ...) с проверкой через middleware
-- Сделала mock-сервис задач (tasks): админ видит и изменяет все задачи, обычный пользователь — только свои
-- протестировала API в Postman.
-
-
 ## Образование
 - **Бакалавриат (окончание в 2026):** Санкт-Петербургский государственный экономический университет (СПБГЭУ) — **Факультет экономики, финансов и информационных технологий**, **направление:** «Математическое моделирование и анализ данных в экономике».
 
@@ -61,11 +33,18 @@
 
 ### Yandex — «Тренировки по алгоритмам» (2025)
 
-![Сертификат Yandex](certificates/4196b762-c614-4fa3-a222-d5d9ecede070.pdf)
+[![Сертификат Yandex](https://img.shields.io/badge/Сертификат-Yandex-FFD700?style=for-the-badge&logo=yandex&logoColor=black)](certificates/4196b762-c614-4fa3-a222-d5d9ecede070.pdf)
 
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nooncatt)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:anastasha.me@gmail.com)
 
+⭐ Портфолио
+📂 Backend Projects
+Системы аутентификации, REST API, Django/Flask, RBAC, тестирование.  
+🔗 https://github.com/nooncatt/portfolio-backend
 
+📂 Data Science / ML Projects
+Аналитические проекты, визуализации, ML, статистика. 
+🔗 https://github.com/nooncatt/portfolio-ds-ml
