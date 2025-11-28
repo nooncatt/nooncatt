@@ -1,8 +1,9 @@
-# 👋 Привет, я Настя Карпенко
-*Junior Backend Developer*
+# Карпенко Анастасия
+*Junior Backend Developer | Python Developer*
 
-## Обо мне
-Студентка 4 курса **Факультета экономики, финансов и информационных технологий** (СПБГЭУ). Активно осваиваю backend-разработку, фокусируюсь на создании надежных и эффективных веб-сервисов. Ищу стажировку или начальную позицию, где смогу применять свои навыки, расти под руководством опытной команды. 
+Студентка 4 курса **Факультета экономики, финансов и информационных технологий** (СПБГЭУ). 
+
+Активно осваиваю backend-разработку, фокусируюсь на создании надежных и эффективных веб-сервисов. Ищу стажировку или начальную позицию, где смогу применять свои навыки, расти под руководством опытной команды. 
 
 ## Технологии и Инструменты
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -21,8 +22,25 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
 
+## 🛠 Backend Стек
+
+<div>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+
+</div>
+
 ## Образование
-- **Бакалавриат (окончание в 2026):** Санкт-Петербургский государственный экономический университет (СПБГЭУ) — **Факультет экономики, финансов и информационных технологий**, **направление:** «Математическое моделирование и анализ данных в экономике».
+- **Бакалавриат (окончание в 2026):** Санкт-Петербургский государственный экономический университет (СПБГЭУ)
+
+**Факультет экономики, финансов и информационных технологий**, **направление:** «Математическое моделирование и анализ данных в экономике».
 
 - **Курсы:**
   - **Backend-разработка на Python** — [Votyakov.com](https://votyakov.com/python-start) (2025)  
@@ -39,11 +57,11 @@
 
 ## 📂 Backend Projects  
 Системы аутентификации, RBAC, REST API, Django/Flask, тестирование.  
-👉 https://github.com/nooncatt/portfolio-backend
+https://github.com/nooncatt/portfolio-backend
 
 ## 📂 Data Science / ML Projects  
 Статистика, визуализации, ML, полноценные аналитические исследования.  
-👉 https://github.com/nooncatt/portfolio-ds-ml
+https://github.com/nooncatt/portfolio-ds-ml
 
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nooncatt)
