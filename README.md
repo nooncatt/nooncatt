@@ -7,14 +7,12 @@
 
 ## 🛠 Технологии и Инструменты
 
-### 💻 Язык программирования
+### Язык программирования
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
----
-
-### 🌐 Веб-разработка
+### Веб-разработка
 <div>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -24,17 +22,13 @@
 <img src="https://img.shields.io/badge/HTTP_Methods-005571?style=for-the-badge"/>
 </div>
 
----
-
-### 🗄️ Базы данных
+### Базы данных
 <div>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
----
-
-### 🧰 Технологии и инструменты
+### Технологии и инструменты
 <div>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -50,9 +44,7 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
 
----
-
-### 🧱 Backend-стек
+### Backend-стек
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -64,9 +56,7 @@
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 </div>
 
----
-
-### 🌍 Иностранные языки
+### Иностранные языки
 <div>
 <img src="https://img.shields.io/badge/English-Upper--Intermediate-1DA1F2?style=for-the-badge&logoColor=white"/>
 </div>
