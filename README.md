@@ -3,7 +3,7 @@
 
 Студентка 4 курса Факультета экономики, финансов и информационных технологий (СПБГЭУ). Активно осваиваю backend-разработку, фокусируюсь на создании надежных и эффективных веб-сервисов. Ищу стажировку или начальную позицию, где смогу применять свои навыки, расти под руководством опытной команды. 
 
-## Навыки и технологии
+### Навыки и технологии
 
 <div align="left">
 
@@ -45,22 +45,22 @@
 
 
 
-## Образование
+### Образование
 **Бакалавриат (окончание в 2026):** Санкт-Петербургский государственный экономический университет (СПБГЭУ)
 **Факультет экономики, финансов и информационных технологий**, **направление:** «Математическое моделирование и анализ данных в экономике».
 
-**Курсы:**
+### Курсы:
   - **Backend-разработка на Python** — [Votyakov.com](https://votyakov.com/python-start) (2025)  
   - **Алгоритмы и структуры данных** — [Votyakov.com](https://votyakov.com/algorithm) (2025)
 
-## Сертификаты
+### Сертификаты
 
-### Yandex — «Тренировки по алгоритмам» (2025)
+Yandex — «Тренировки по алгоритмам» (2025)
 
 [![Сертификат Yandex](https://img.shields.io/badge/Сертификат-Yandex-FFD700?style=for-the-badge&logo=yandex&logoColor=black)](certificates/4196b762-c614-4fa3-a222-d5d9ecede070.pdf)
 
 
-## ⭐ Портфолио
+### Портфолио
 
 <div align="center">
 
@@ -86,6 +86,6 @@ Backend-проекты: Django, DRF, Flask, REST API
 
 </div>
 
-## Контакты
+### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nooncatt)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:anastasha.me@gmail.com)
