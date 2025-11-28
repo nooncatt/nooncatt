@@ -66,19 +66,19 @@ Yandex — «Тренировки по алгоритмам» (2025)
 
 <table style="border: none;">
 <tr>
-
-<td width="420" style="border: 1px solid #444; border-radius: 8px; padding: 20px; background: #0d1117;">
-<h3><a href="https://github.com/nooncatt/Portfolio-DS-ML">📁 Portfolio-DS-ML</a></h3>
-Портфолио проектов Data Scientist / ML Engineer  
-<br><br>
-<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square">
-</td>
-
+  
 <td width="420" style="border: 1px solid #444; border-radius: 8px; padding: 20px; background: #0d1117;">
 <h3><a href="https://github.com/nooncatt/portfolio-backend">📁 Portfolio-Backend</a></h3>
 Backend-проекты: Django, DRF, Flask, REST API  
 <br><br>
 <img src="https://img.shields.io/badge/Python-Backend-blue?style=flat-square">
+</td>
+  
+<td width="420" style="border: 1px solid #444; border-radius: 8px; padding: 20px; background: #0d1117;">
+<h3><a href="https://github.com/nooncatt/Portfolio-DS-ML">📁 Portfolio-DS-ML</a></h3>
+Портфолио проектов Data Scientist / ML Engineer  
+<br><br>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square">
 </td>
 
 </tr>
