@@ -41,10 +41,15 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:anastasha.me@gmail.com)
 
 ⭐ Портфолио
+
 📂 Backend Projects
+
 Системы аутентификации, REST API, Django/Flask, RBAC, тестирование.  
+
 🔗 https://github.com/nooncatt/portfolio-backend
 
 📂 Data Science / ML Projects
+
 Аналитические проекты, визуализации, ML, статистика. 
+
 🔗 https://github.com/nooncatt/portfolio-ds-ml
