@@ -26,7 +26,6 @@
 
 - **Курсы:**
   - **Backend-разработка на Python** — [Votyakov.com](https://votyakov.com/python-start) (2025)  
-    *Освоено:* Python, Flask, REST API, тестирование (Pytest), Git...
   - **Алгоритмы и структуры данных** — [Votyakov.com](https://votyakov.com/algorithm) (2025)
 
 ## Сертификаты
@@ -36,20 +35,16 @@
 [![Сертификат Yandex](https://img.shields.io/badge/Сертификат-Yandex-FFD700?style=for-the-badge&logo=yandex&logoColor=black)](certificates/4196b762-c614-4fa3-a222-d5d9ecede070.pdf)
 
 
+# ⭐ Портфолио
+
+## 📂 Backend Projects  
+Системы аутентификации, RBAC, REST API, Django/Flask, тестирование.  
+👉 https://github.com/nooncatt/portfolio-backend
+
+## 📂 Data Science / ML Projects  
+Статистика, визуализации, ML, полноценные аналитические исследования.  
+👉 https://github.com/nooncatt/portfolio-ds-ml
+
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nooncatt)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:anastasha.me@gmail.com)
-
-⭐ Портфолио
-
-📂 Backend Projects
-
-Системы аутентификации, REST API, Django/Flask, RBAC, тестирование.  
-
-🔗 https://github.com/nooncatt/portfolio-backend
-
-📂 Data Science / ML Projects
-
-Аналитические проекты, визуализации, ML, статистика. 
-
-🔗 https://github.com/nooncatt/portfolio-ds-ml
