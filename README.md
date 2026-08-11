@@ -1,5 +1,5 @@
 # Карпенко Анастасия
-*Junior Python Developer*
+*Data Analyst*
 
 ### Навыки и технологии
 
